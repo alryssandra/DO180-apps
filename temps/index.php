@@ -13,7 +13,7 @@
 </tr>
 
 <tr>
-    <td>Convert to:</td>
+    <td>Converter para:</td>
     <td><select name="scale" id="scale" size="1">
                <option disabled>Select the scale</option>
                <option value="c">Celsius</option>
@@ -45,7 +45,7 @@ if (isset($_POST['btnConvert'])) {
 $temp = $_POST['temp'];
 $scale = $_POST['scale'];
 $converted = convert($temp, $scale);
-echo "The original temperature, $temp, converted is $converted.";
+echo "A temperatura original era, $temp, convertida eh $converted.";
 }
 ?>
 
