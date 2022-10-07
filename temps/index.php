@@ -15,7 +15,7 @@
 <tr>
     <td>Converter para:</td>
     <td><select name="scale" id="scale" size="1">
-               <option disabled>Selecione</option>
+               <option disabled>Escolhendo Temp</option>
                <option value="c">Celsius</option>
                <option value="f">Fahrenheit</option>
         </select>
