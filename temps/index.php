@@ -23,7 +23,7 @@
 </tr>
 
 <tr>
-    <td><input type="submit" name="btnConvert" id="btnConvert" value="Convert"></td>
+    <td><input type="submit" name="btnConvert" id="btnConvert" value="Converter"></td>
     <td><input type="reset" name="btnReset" id="btnReset" value="Reset"></td>
 </tr>
 
