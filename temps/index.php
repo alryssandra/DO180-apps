@@ -1,6 +1,6 @@
 <html>
 <head>
-      <title>Atrapalhando a Temperaturas</title>
+      <title>Temperaturas</title>
       <meta charset="utf-8">
 </head>
 <body>
@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-    <td>Entre o valor da temperatura para ser convertida:</td>
+    <td>Enter here the values of the temperature:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
 
