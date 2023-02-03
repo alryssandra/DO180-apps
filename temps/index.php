@@ -8,14 +8,14 @@
 
 <table>
 <tr>
-    <td>Enter here the values of the temperature:</td>
+    <td>Entre aqui os valores da temperatura:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
 
 <tr>
     <td>Converter para:</td>
     <td><select name="scale" id="scale" size="1">
-               <option disabled>Escolhendo Temp</option>
+               <option disabled>Escolhendo Temperatura</option>
                <option value="c">Celsius</option>
                <option value="f">Fahrenheit</option>
         </select>
