@@ -1,6 +1,6 @@
 <html>
 <head>
-      <title>Temperaturas</title>
+      <title>Temperatura</title>
       <meta charset="utf-8">
 </head>
 <body>
