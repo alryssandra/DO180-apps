@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-    <td>Entre aqui os valores da temperatura:</td>
+    <td>Coloque aqui os valores da temperatura:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
 
@@ -23,8 +23,8 @@
 </tr>
 
 <tr>
-    <td><input type="submit" name="btnConvert" id="btnConvert" value="Converter"></td>
-    <td><input type="reset" name="btnReset" id="btnReset" value="Reset"></td>
+    <td><input type="submit" name="btnConvert" id="btnConvert" value="Convertendo"></td>
+    <td><input type="reset" name="btnReset" id="btnReset" value="Resetar"></td>
 </tr>
 
 
